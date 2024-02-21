@@ -77,4 +77,5 @@ document.getElementById("monBouton").addEventListener("click", function(){
 callback = fonction qui passe en paramètre un autre fonction
 
 
-# Créer et Ajouter des élémments
+# Tableau en JS
+
